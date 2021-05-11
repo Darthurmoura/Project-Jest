@@ -17,5 +17,5 @@ Obvious-- the chiseled good looks--
 not the jaw, the mouth of a monster... 
 Why do you let it be seen? Tell me why."
 
-Batman: To *mock* you.
+Batman: To **mock** you.
 ```
