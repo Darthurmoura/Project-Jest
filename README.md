@@ -9,7 +9,13 @@ Após instaladas as dependências, basta rodar o comando npm test \[nome_do_arqu
 
 ---
 ```
-Joker: Yes... Just look at you... Desperate to be feared, you want to be perceived as a monster, draped in black. And yet... You leave that little window... a glimpse at the perfection underneath. Obvious-- the chiseled good looks-- not the jaw, the mouth of a monster... Why do you let it be seen? Tell me why.
+Joker: "Yes... Just look at you... 
+Desperate to be feared, you want to be perceived as a monster, 
+draped in black. And yet... You leave that little window... 
+a glimpse at the perfection underneath. 
+Obvious-- the chiseled good looks-- 
+not the jaw, the mouth of a monster... 
+Why do you let it be seen? Tell me why."
 
-Batman: To mock you.
+Batman: To *mock* you.
 ```
