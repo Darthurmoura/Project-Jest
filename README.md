@@ -8,7 +8,7 @@ A partir da pasta raíz do projeto, no terminal, dê o comando npm install para 
 Após instaladas as dependências, basta rodar o comando npm test \[nome_do_arquivo_de_teste\].
 
 ---
-```
+
 Joker: "Yes... Just look at you... 
 Desperate to be feared, you want to be perceived as a monster, 
 draped in black. And yet... You leave that little window... 
@@ -17,5 +17,5 @@ Obvious-- the chiseled good looks--
 not the jaw, the mouth of a monster... 
 Why do you let it be seen? Tell me why."
 
-Batman: To **mock** you.
-```
+Batman: "To **mock** you."
+
