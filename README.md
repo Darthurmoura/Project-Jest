@@ -16,5 +16,5 @@ Speaking of *mocking*:
 > a glimpse at the perfection underneath. 
 > Obvious-- the chiseled good looks-- 
 > not the jaw, the mouth of a monster... 
-> Why do you let it be seen? Tell me why."
+> Why do you let it be seen? Tell me why."<br>
 > **BATMAN**: "To ***mock*** you."
